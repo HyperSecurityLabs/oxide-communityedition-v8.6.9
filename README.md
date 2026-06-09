@@ -8,9 +8,11 @@ OxideCE-v7.7.7 Elite — Precision-forged in Rust. Advanced vulnerability discov
 </p>
 
 ```text
-  ▷ OxideCE-v7.7.7 Elite is under continuous development.
+▷ OxideCE-v7.7.7 Elite is under continuous development.
 
-The journey does not end until accuracy is maximized, false positives are minimized, and the platform reaches its full potential.
+The journey does not end until accuracy is maximized, 
+false positives
+are minimized, and the platform reaches its full potential.
 
 Maintained by HyperSecurity Offensive Labs.
 ```
