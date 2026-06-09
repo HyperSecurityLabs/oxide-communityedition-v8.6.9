@@ -1,5 +1,6 @@
 # OxideCE-v7.7.7elite
 OxideCE-v7.7.7elite — Precision-forged Rust vulnerability scanner. AI/ML-powered detection, Cloudflare WAF bypass, kernel-level hypersecurity. Built for the offensive security elite. 
+
 <p align="center">
   <img src="https://img.shields.io/badge/version-7.7.7-elite-50dca0?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/status-ELITE%20EDITION-80dca0?style=for-the-badge&labelColor=1a1a2e" />
