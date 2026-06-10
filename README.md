@@ -292,8 +292,15 @@ Every star brings OXIDE closer to `apt install oxide`. Report bugs, join the com
 
 ---
 
-[![Development](https://img.shields.io/badge/Development-In_Progress-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Development](https://img.shields.io/badge/Development-Community_Driven-00d4ff?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 
+OXIDE evolves through **your feedback**. Every feature, fix, and upgrade is shaped by the community — report bugs, suggest features, and vote on priorities.
+
+```
+Latest:   v7.7.7-elite — ML engine, fuzzing, WAF bypass, headless JS
+Next:     Shaped by you → open issues, feature requests, PRs
+Vision:   apt install oxide on Kali Linux
+```
 ---
 
 <div align="center">
