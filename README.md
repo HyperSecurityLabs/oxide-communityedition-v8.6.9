@@ -17,9 +17,12 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
  Contributions, bug reports, and community feedback welcome.
 ```
 
+``
+
 [![GitHub](https://img.shields.io/badge/GitHub-OxideCE--v7.7.7ELITE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Telegram](https://img.shields.io/badge/Telegram-@hypersecurity__offsec-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hypersecurity_offsec)
+[![Forums](https://img.shields.io/badge/Forums-Community-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
 [![Rust](https://img.shields.io/badge/Rust-2021%20Edition-00e676?style=for-the-badge&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![Issues](https://img.shields.io/badge/Issues-Report-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
