@@ -16,7 +16,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
  Active development by khaninkali @ HyperSecurity Offensive Labs
  Contributions, bug reports, and community feedback welcome.
 ```
-<div align="center">
+<div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-OxideCE--v7.7.7ELITE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
