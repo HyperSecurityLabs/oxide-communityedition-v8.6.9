@@ -26,11 +26,13 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Platform](https://img.shields.io/badge/⌨_Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Releases](https://img.shields.io/badge/📦_Downloads-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
-
 <br>
-> **⭐ Kali Linux Integration** — Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali, destined for Kali's official repos. [![Kali Linux](https://img.shields.io/badge/Kali_Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
-</div>
 
+[![Kali](https://img.shields.io/badge/Kali_Linux-Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
+
+> ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
+
+</div>
 ---
 
 <div align="left">
