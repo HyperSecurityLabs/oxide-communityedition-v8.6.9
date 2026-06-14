@@ -16,7 +16,6 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 **Precision-forged Rust vulnerability scanner**  
 *HypersecurityOffensiveLabs · offensive security toolkit*  
 `0day · ML detection · WAF bypass · headless JS · distributed scanning`
-
 *Active development by khaninkali @ HyperSecurity Offensive Labs*  
 *Contributions, bug reports, and community feedback welcome.*
 
@@ -29,9 +28,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
 
 <br>
-
 > **⭐ Kali Linux Integration** — Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali, destined for Kali's official repos. [![Kali Linux](https://img.shields.io/badge/Kali_Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
-
 </div>
 
 ---
