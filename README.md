@@ -317,17 +317,7 @@ sudo apt update && sudo apt install oxide
 - ML-based anomaly detection fills the gap traditional scanners miss
 - Single binary deployment — no Python dependency hell
 - Active recon via raw sockets (`pnet`) for OS fingerprinting
-
-### Support the Effort
-
-[![Star](https://img.shields.io/badge/Star_on_GitHub-Support-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Issues](https://img.shields.io/badge/Report_Bugs-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
-[![Telegram](https://img.shields.io/badge/Join_Community-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hypersecurity_offsec)
-
-Every star brings OXIDE closer to `apt install oxide`. Report bugs, join the community, and help shape the future of open-source security tooling.
-
-</div>
-
+  
 ---
 
 <div align="left">
