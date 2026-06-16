@@ -13,6 +13,9 @@
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
 [![Warning](https://img.shields.io/badge/‼_Warning-Authorized-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Lyara-Koroleva](https://img.shields.io/badge/♛_Ляра--Королева-F3E5F5?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=2A0052)](https://github.com/lyara20/About.Me)
+[![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
+
+</div>
 </div>
 
 > Every star brings OXIDE closer to sudo apt install oxide. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
