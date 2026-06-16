@@ -16,7 +16,7 @@
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/_Rust-2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/_Platform-Win│Linux-4DB6AC?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=1A1A2E)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Downloads](https://img.shields.io/badge/⇩_Downloads-v7.7.7-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+[![Downloads](https://img.shields.io/badge/⬇_Downloads-v7.7.7-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
 [![Warning](https://img.shields.io/badge/‼_Warning-Authorized-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
