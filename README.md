@@ -3,6 +3,7 @@
 *HyperSecurity Offensive Labs · ALLAH L S T*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
+<img width="1440" height="900" alt="Screenshot_2026-06-16_21_10_16" src="https://github.com/user-attachments/assets/5026686d-91a6-4750-8336-45f5fa2aa651" />
 <div align="center">
   
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
