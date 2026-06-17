@@ -1,4 +1,4 @@
-# OXIDE v7.7.7-elite
+# OXIDEv7ELITE
 **Precision-forged Rust vulnerability scanner**  
 *HyperSecurity Offensive Labs · ALLAH L S T*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*
