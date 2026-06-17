@@ -100,8 +100,8 @@ oxide -u targets.txt --threads 50                                # From file
 
 | Module | Detection |
 |--------|-----------|
-| **SQLi** | Error, boolean, time, UNION, stacked queries |***MORE RESILIANT***
-| **Blind SQLi** | Blind / time-based inference |***MORE RESILIANT***
+| **SQLi** | Error, boolean, time, UNION, stacked queries |**MORE RESILIANT***
+| **Blind SQLi** | Blind / time-based inference |**MORE RESILIANT***
 | **XSS** | Reflected, stored, DOM |***MORE RESILIANT***
 | **LFI** | File read confirmation |***MORE RESILIANT***
 | **Path Traversal** | Directory traversal |***MORE RESILIANT***
