@@ -5,6 +5,8 @@
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
+<img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_36" src="https://github.com/user-attachments/assets/89653867-22c4-40e0-a1f7-4b9aa0c99c3b" />
+
 <div align="center">
   
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
@@ -167,6 +169,8 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 ---
 
 <div align="left">
+  
+<img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_28" src="https://github.com/user-attachments/assets/2ce90eed-a578-4dbe-bac3-19c9f95eae98" />
 
 [![GUI Frontend](https://img.shields.io/badge/🖥_GUI_Frontend-Desktop_App-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE)
 
