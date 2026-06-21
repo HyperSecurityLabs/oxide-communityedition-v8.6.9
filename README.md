@@ -203,8 +203,6 @@ sudo cp target/release/oxide-gui /usr/local/bin/
 oxide-gui
 ```
 
-Requires the same dependencies as the CLI build (see [INSTALLATION.md](INSTALLATION.md)).
-
 </div>
 
 ---
