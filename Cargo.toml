@@ -6,7 +6,7 @@ members = [
 exclude = ["target"]
 
 [package]
-name = "oxide"
+name = "oxide-ce"
 version = "7.9.1-elite"
 edition = "2021"
 authors = ["khaninkali | HyperSecurityLabs"]
