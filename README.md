@@ -4,7 +4,7 @@
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
-[![GUI](https://img.shields.io/badge/⟡_GUI-Launch_OXIDE-FF2D95?style=for-the-badge&logo=electron&logoColor=000000&labelColor=6A0032)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
+
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/●_Rust-2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/■_Platform-Win│Linux-4DB6AC?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=1A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
@@ -12,6 +12,7 @@
 [![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
 [![Warning](https://img.shields.io/badge/‼_Warning-Authorized-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=8B0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
+[![GUI](https://img.shields.io/badge/⟡_GUI-Launch_OXIDE-FF2D95?style=for-the-badge&logo=electron&logoColor=000000&labelColor=6A0032)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/releases)
 [![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
 
 </div>
