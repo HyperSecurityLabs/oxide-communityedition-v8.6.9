@@ -1,6 +1,6 @@
 # OXIDE-v8.5.0-community-edition
 **Precision-forged Rust vulnerability scanner**  
-*HyperSecurity Offensive Labs · ALLAH L S T*  
+*HyperSecurity Offensive Labs ·*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
