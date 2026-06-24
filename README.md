@@ -208,8 +208,6 @@ Latest:   v8.5.0community-edition — ML engine, fuzzing, WAF bypass, headless J
 Next:     Shaped by you → open issues, feature requests, PRs
 Vision:   apt install oxide on Kali Linux
 ```
-
-[![Issues](https://img.shields.io/badge/⊘_Request_Feature-ff6b6b?style-for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=8B0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0/issues)
 [![Telegram](https://img.shields.io/badge/✎_Give_Feedback-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=4A0072)](https://t.me/hypersecurity_offsec)
 
 ---
