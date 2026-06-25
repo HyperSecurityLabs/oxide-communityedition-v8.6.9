@@ -23,7 +23,7 @@ Built with 🦀 Rust. Forged in the offensive security trenches. Fueled by late 
 
 **HyperSecurityLabs · khaninkali · Lyara-Koroleva**
 
-> Every star brings OXIDE closer to sudo apt install oxide. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
+>Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 This is the last freely-available Community Edition. Future development moves exclusively to OXIDE Pro Edition. Every star on GitHub brings OXIDE closer to `sudo apt install oxide` on Kali Linux.
 ---
 
