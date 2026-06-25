@@ -1,0 +1,83 @@
+[workspace]
+members = [
+       "oxide-proxy",
+       "hypersecurity",
+]
+exclude = ["target"]
+
+[package]
+name = "oxide"
+version = "8.5.0-community-edition"
+edition = "2021"
+authors = ["khaninkali | HyperSecurityLabs"]
+description = "OXIDE - Open eXtensible Intelligence & Detection Engine — Community Edition"
+license-file = "docs/LICENSE"
+repository = "https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0"
+homepage = "https://hypersecurityoffensivelabs-about.is-best.net/"
+
+[lib]
+name = "oxide"
+path = "src/lib.rs"
+
+[[bin]]
+name = "oxide"
+path = "src/main.rs"
+
+
+[dependencies]
+tokio = { version = "1.35", features = ["full"] }
+reqwest = { version = "0.11", features = ["json", "cookies", "gzip", "brotli"] }
+clap = { version = "4.4", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+scraper = "0.18"
+regex = "1.10"
+colored = "2.1"
+anyhow = "1.0"
+thiserror = "1.0"
+url = "2.5"
+base64 = "0.21"
+sha2 = "0.10"
+sha1 = "0.10"
+md5 = "0.7"
+uuid = { version = "1.6", features = ["v4"] }
+chrono = "0.4"
+toml = "0.8"
+dirs = "5.0"
+urlencoding = "2.1"
+hex = "0.4"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+governor = "0.6"
+trust-dns-resolver = "0.23"
+rustls = "0.21"
+rand = "0.10.0"
+bincode = "1.3"
+libloading = "0.8"
+aes-gcm = "0.10"
+tempfile = "3.10"
+zeroize = { version = "1.8", features = ["derive", "alloc"] }
+hypersecurity = { path = "hypersecurity" }
+csv = "1.4.0"
+rusqlite = { version = "0.31", features = ["bundled"] }
+smartcore = "0.3"
+linfa = "0.7"
+linfa-clustering = "0.7"
+ndarray = "0.15"
+statrs = "0.16"
+futures = "0.3"
+strsim = "0.11"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+strip = true
+panic = "abort"
+codegen-units = 1
+overflow-checks = true
+debug = "limited"
+incremental = true
+
+[target.'cfg(target_os = "linux")'.dependencies]
+pnet = "0.35"
+
