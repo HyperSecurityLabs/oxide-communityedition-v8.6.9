@@ -89,7 +89,7 @@ OXIDE was put through a hardened battle test against a custom target with **5 de
 ./oxide -u <target> --zeroday --duration 300
 ```
 
-**Bottom line:** OXIDE isn't just another scanner — it's the only one that combines SQLi + XSS + CMDi + NoSQLi + CORS + TLS + session + creds + ML zero-day in a single concurrent engine. Star it, share it, make it sharper.
+> OXIDE isn't just another scanner — it's the only one that combines SQLi + XSS + CMDi + NoSQLi + CORS + TLS + session + creds + ML zero-day in a single concurrent engine. Star it, share it, make it sharper.
 
 </div>
 
