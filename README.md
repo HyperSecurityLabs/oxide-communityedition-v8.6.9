@@ -4,7 +4,7 @@
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
-<img width="1440" height="900" alt="Screenshot_2026-06-25_09_52_24" src="https://github.com/user-attachments/assets/0817e1fb-d272-4ae1-846d-629b6cda85bd" />
+<img width="1440" height="900" alt="Screenshot_2026-06-28_11_22_58" src="https://github.com/user-attachments/assets/aec41a0f-2b88-4f06-8601-dcc55a83313f" />
 
 [![Forums](https://img.shields.io/badge/_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Platform](https://img.shields.io/badge/_Platform-Win│Linux-4DB6AC?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=1A1A2E)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
@@ -107,7 +107,7 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI · WAF Bypass (12 vendors)
 
 [![GUI Frontend](https://img.shields.io/badge/🖥_CyberPunk2077-Interface-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0)
 
-<img width="1440" height="900" alt="Screenshot_2026-06-25_09_52_28" src="https://github.com/user-attachments/assets/a7dcee0b-7cd7-4792-9260-c31319a72d4e" />
+<img width="1440" height="900" alt="Screenshot_2026-06-28_11_22_53" src="https://github.com/user-attachments/assets/c1803300-8fa2-46a0-b305-8c6880a2a02f" />
 
 A frameless, neon-drenched desktop app that makes you feel like you're in a cyberdeck from 2077. WRY + TAO under the hood. Scan presets, live terminal console, module toggles, and an About modal that tells you exactly how illegal your scan is.
 > Native desktop GUI built with **WRY** (WebView2/WebKit) + **TAO** (windowing). Frameless window, scan presets, config panel, module toggles, live terminal console, status badge, About modal.
