@@ -52,18 +52,6 @@ sudo cp target/release/oxide /usr/local/bin/
 
 ---
 
-[![Usage](https://img.shields.io/badge/_Usage-Reference-5B6ABF?style=for-the-badge&logo=terminal&logoColor=000&labelColor=EDEAF8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
-
-```bash
-oxide --url https://example.com --modules all --duration 120    # Full scan
-oxide --url https://example.com --modules sqli,xss,lfi          # Specific modules
-oxide --url https://example.com --zeroday --duration 120         # Zero-day ML
-oxide --url https://example.com --headless --crawl-depth 5      # JS rendering
-oxide --url https://example.com --multiattack                   # Multi-target
-oxide -u targets.txt --threads 50                                # From file
-```
-
----
 
 [![Scanner Modules](https://img.shields.io/badge/_Scanner_Modules-13_Engines-38B48B?style=for-the-badge&logo=github&logoColor=000&labelColor=E8F5E8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
@@ -126,13 +114,7 @@ cd gui && cargo build --release && sudo cp target/release/oxide-gui /usr/local/b
 | `--active` | false | TCP fingerprinting | `--headless` | false | Chrome JS |
 | `--resume` | false | Resume checkpoint | `--insta` | false | Instagram OSINT |
 | `--session` | false | Session hijack | `--train` | false | Train ML |
-| `--download` | false | Auto-download | `--threads` | 50 | Concurrency |
-| `--jobs` | 2 | Crawl workers | `--duration` | 0 | Time limit (s) |
-| `--rate-limit` | 0 | Max req/sec | `--crawl-depth` | 3 | Crawl depth |
-| `--max-urls` | 100 | Max URLs | `--exploitation-level` | 75 | Aggression |
-| `--payload-limit` | 100 | Max payloads | `--proxy` | — | HTTP proxy |
-| `--output` | — | Report path | `--format` | json | json/html/csv/xml |
-| `--insecure` | false | Skip SSL verify | `--verbose` | false | Detailed output |
+***More**
 
 Config: `oxide-config.toml` for persistent settings.
 
@@ -167,7 +149,9 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Replaced entire ELITE / Rosé Pine / Osaka-Jade / Lavender colour system with pure Japanese washoku palette across 13 scanner modules, CLI display, advanced modules, and zero-day engine
 - Banner palette switched to 翡翠→若葉→露草 gradient (was 藍→露草→藤)
 - `--version` updated to `v8.6.9-community-edition`
-- Added Socket2 
+- Added Socket2
+- More stable optimization with HyperSecurity Promize
+- More High Performance with Modern Async/Await
 
 ---
 
@@ -196,10 +180,7 @@ Targeting official Kali Linux repository: `sudo apt update && sudo apt install o
 | Debian/Arch packaging | ✓ Complete |
 | 和色 colour palette | ✓ Complete |
 | `pnet` raw socket support | ✓ Complete |
-| Community testing | ◐ In progress |
-| Kali submission | ◐ Pending |
-
-**Why Kali?** Rust-native (`tokio`), complements `sqlmap`/`nmap`/`burpsuite`/`metasploit`, ML anomaly detection, single binary, active recon via `pnet`.
+|Battle Testest Completed | Uses Levershtien
 
 [![Issues](https://img.shields.io/badge/_Report_Bugs-D7003A?style=for-the-badge&logo=bugatti&logoColor=000&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/issues)
 [![Telegram](https://img.shields.io/badge/_Join_Community-5B6ABF?style=for-the-badge&logo=telegram&logoColor=000&labelColor=EDEAF8)](https://t.me/hypersecurity_offsec)
@@ -224,19 +205,6 @@ Vision:   apt install oxide on Kali Linux
 [![Star](https://img.shields.io/badge/_Star_on_GitHub-Support-2EA9DF?style=for-the-badge&logo=github&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 [![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=E8F5E8)](https://hypersecurityoffseclabs.great-site.net/)
 [![Telegram](https://img.shields.io/badge/_Telegram-Community-2EA9DF?style=for-the-badge&logo=telegram&logoColor=000&labelColor=E8F4FD)](https://t.me/hypersecurity_offsec)
-[![Forums](https://img.shields.io/badge/_Forums-Community-8BB85C?style=for-the-badge&logo=discourse&logoColor=000&labelColor=EDF5E0)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
-
-**Built for Kali Linux · Targeting Official Repository Inclusion**
-
----
-
-#  ЛЯРА-Королева 
-
-**Дизайнер · Архитектор интерфейсов** — Королева эстетики OXIDE, architect of the 和色 washoku palette, gradient system, braille spinners, Japanese HTML report theme.
-
-[![Lyara-Koroleva](https://img.shields.io/badge/_Ляра--Королева-8B81C3?style=for-the-badge&logo=pinboard&logoColor=000&labelColor=F5F0FA)](https://github.com/lyara20/About.Me)
-
-> *"Красота — это не опция, это стандарт."*
 
 ---
 
