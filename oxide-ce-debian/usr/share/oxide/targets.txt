@@ -1,9 +1,0 @@
-# OXIDE v8.5.0community-edition — Test Targets
-# Uncomment or add your own authorized targets below
-
-# https://example.com
-# https://httpbin.org
-# https://google.com
-
-# Example with --duration flag
-# ./oxide --url https://example.com --modules all --duration 30 --verbose

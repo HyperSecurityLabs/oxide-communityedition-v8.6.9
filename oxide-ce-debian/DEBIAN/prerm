@@ -1,6 +1,0 @@
-#!/bin/sh
-set -e
-
-# Nothing to clean pre-removal
-
-exit 0
