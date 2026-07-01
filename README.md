@@ -219,15 +219,6 @@ OXIDE was put through a hardened battle test against a custom target with **5 de
 
 **AI advantage:** `--train` mode learns 50+ response features, trains Random Forest + SVM, catches zero-days no signature can match. `--zeroday` detects behavioral anomalies sqlmap/Burp/ZAP will never see.
 
-```bash
-# Full battle test scan
-./oxide -u <target> --all --threads 20 --duration 300
-
-# Train + zero-day ML detection
-./oxide -u <target> --train --duration 120
-./oxide -u <target> --zeroday --duration 300
-```
-
-**Bottom line:** OXIDE isn't just another scanner — it's the only one that combines SQLi + XSS + CMDi + NoSQLi + CORS + TLS + session + creds + ML zero-day in a single concurrent engine. Star it, share it, make it sharper.
+> OXIDE isn't just another scanner — it's the only one that combines SQLi + XSS + CMDi + NoSQLi + CORS + TLS + session + creds + ML zero-day in a single concurrent engine. Star it, share it, make it sharper.
 
 </div>
