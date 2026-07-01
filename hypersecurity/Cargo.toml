@@ -4,6 +4,8 @@ version = "1.0.0"
 edition = "2021"
 authors = ["HyperSecurityOffensiveLabs"]
 description = "Hypersecurity kernel module — memory safety, cache sanitisation, no-leak assurance"
+license = "GPL-3.0-only"
+license-file = "../LICENSE"
 
 [lib]
 crate-type = ["cdylib"]
