@@ -1,13 +1,4 @@
-```  
- ██████╗ ██╗  ██╗██╗██████╗ ███████╗
-██╔═══██╗╚██╗██╔╝██║██╔══██╗██╔════╝
-██║   ██║ ╚███╔╝ ██║██║  ██║█████╗  
-██║   ██║ ██╔██╗ ██║██║  ██║██╔══╝  
-╚██████╔╝██╔╝ ██╗██║██████╔╝███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
-```
-
-# OXIDE v8.5.0 Community Edition
+# OXIDE v8.6.9 Community Edition
 
 ### *"Levenshtein walked so OXIDE could run. XSStrike taught me the way — I just made it faster, meaner, and hungrier."* — khaninkali
 
@@ -63,27 +54,6 @@ Chrome under the hood. SPAs, JS-rendered content, WebSockets — if it exists in
 
 ---
 
-## Install on Kali Linux
-
-```bash
-sudo apt install -y build-essential pkg-config libssl-dev cmake
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-source "$HOME/.cargo/env"
-git clone https://github.com/HyperSecurityLabs/oxide-communityedition-v8.5.0.git
-cd OxideCE-v8.5.0COMMUNITY && cargo build --release
-sudo cp target/release/oxide /usr/local/bin/
-```
-
-Or grab the **.deb** from the releases page and:
-```bash
-sudo dpkg -i oxide-ce_8.5.0community-edition_amd64.deb
-oxide-ce --url https://yourtarget.com --modules all --duration 120
-```
-
----
-
-## The Philosophy
-
 > **"Scan everything. Trust nothing. Patch accordingly."**
 
 This is the last freely-available Community Edition. Future development moves exclusively to OXIDE Pro Edition. Every star on GitHub brings OXIDE closer to `sudo apt install oxide` on Kali Linux.
@@ -91,11 +61,3 @@ This is the last freely-available Community Edition. Future development moves ex
 Built with 🦀 Rust. Forged in the offensive security trenches. Fueled by late nights and Levenshtein distance calculations.
 
 **HyperSecurityLabs · khaninkali · Lyara-Koroleva**
-
-```  
-  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄
-  ██░▄▄▄░██  ██░▄▄▄░██  ██░▄▄▄░██  ██░▄▄▄░██
-  ██░███░██  ██░███░██  ██░███░██  ██░███░██
-  ██░███░██  ██░███░██  ██░███░██  ██░███░██
-  ▀▀░▀▀▀░▀▀  ▀▀░▀▀▀░▀▀  ▀▀░▀▀▀░▀▀  ▀▀░▀▀▀░▀▀
-```
