@@ -5,7 +5,6 @@
 * Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
 
 [![GUI](https://img.shields.io/badge/_GUI-Launch_OXIDE-E83929?style=for-the-badge&logo=electron&logoColor=000&labelColor=FFE8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
-[![Forums](https://img.shields.io/badge/_Forums-Community-2EA9DF?style=for-the-badge&logo=discourse&logoColor=000&labelColor=E8F4FD)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/_Rust-2021-FFB11B?style=for-the-badge&logo=rust&logoColor=000&labelColor=FFF8E0)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/_Platform-WinLinux-2EA9DF?style=for-the-badge&logo=linux&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 [![Downloads](https://img.shields.io/badge/_Downloads-v8.6.9-91989F?style=for-the-badge&logo=github&logoColor=000&labelColor=F0F0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
