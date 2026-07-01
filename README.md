@@ -2,9 +2,10 @@
 **Precision-forged Rust vulnerability scanner**  
 *HyperSecurity Offensive Labs ·*  
 *Forged by HyperSecurityLabs · Unleash the hunt.*  
-* Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
+* Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
 
 [![GUI](https://img.shields.io/badge/_GUI-Launch_OXIDE-E83929?style=for-the-badge&logo=electron&logoColor=000&labelColor=FFE8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
+[![Forums](https://img.shields.io/badge/_Forums-Community-8BB85C?style=for-the-badge&logo=discourse&logoColor=000&labelColor=EDF5E0)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/_Rust-2021-FFB11B?style=for-the-badge&logo=rust&logoColor=000&labelColor=FFF8E0)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/_Platform-WinLinux-2EA9DF?style=for-the-badge&logo=linux&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 [![Downloads](https://img.shields.io/badge/_Downloads-v8.6.9-91989F?style=for-the-badge&logo=github&logoColor=000&labelColor=F0F0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
@@ -16,6 +17,13 @@
 </div>
 
 > Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
+
+---
+[![Levershin](https://img.shields.io/badge/_Levershin-FP_Reduction-884898?style=for-the-badge&logo=trustpilot&logoColor=000&labelColor=F0E8F2)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/issues)
+
+>Levershin — False Positives Reduction Philosophy
+
+OXIDE's **Levershin engine** is a multi-stage false positive reduction system that validates every detection before it reaches the report. Instead of flooding you with raw alerts, Levershin cross-references each finding against response behavior, timing patterns, and confirmation probes — silently discarding phantom positives while elevating verified vulnerabilities.
 
 ---
 
@@ -152,6 +160,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - 60+ probe paths for WordPress/REST API discovery
 - Headless WordPress detection — readme/license/feed/oembed header probes
 - 120-entry common password list + 48-year password mutation engine (1970–2030)
+- **Levershin false positive reduction engine** — multi-stage behavioral/timing/re-probe filter that validates every finding before reporting
 
 **Changed:**
 - Removed `trust-dns-resolver` dependency
@@ -219,7 +228,7 @@ Vision:   apt install oxide on Kali Linux
 [![Star](https://img.shields.io/badge/_Star_on_GitHub-Support-2EA9DF?style=for-the-badge&logo=github&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 [![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=E8F5E8)](https://hypersecurityoffseclabs.great-site.net/)
 [![Telegram](https://img.shields.io/badge/_Telegram-Community-2EA9DF?style=for-the-badge&logo=telegram&logoColor=000&labelColor=E8F4FD)](https://t.me/hypersecurity_offsec)
-[![Forums](https://img.shields.io/badge/_Forums-Community-2EA9DF?style=for-the-badge&logo=discourse&logoColor=000&labelColor=E8F4FD)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
+[![Forums](https://img.shields.io/badge/_Forums-Community-8BB85C?style=for-the-badge&logo=discourse&logoColor=000&labelColor=EDF5E0)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
 
 **Built for Kali Linux · Targeting Official Repository Inclusion**
 
