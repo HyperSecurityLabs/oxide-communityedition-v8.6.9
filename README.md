@@ -140,10 +140,9 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 
 ---
 
-[![Changelog](https://img.shields.io/badge/_Changelog-v8.6.9--community-38B48B?style=for-the-badge&logo=github&logoColor=000&labelColor=E8F5E8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
-
 **v8.6.9 — 和色 (Washoku Colours) Edition:** 
-# Changelog — OXIDE v8.6.9 Community Edition
+
+[![Changelog](https://img.shields.io/badge/_Changelog-v8.6.9--community-38B48B?style=for-the-badge&logo=github&logoColor=000&labelColor=E8F5E8)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
 
 ## Core Performance
 - Async/await concurrent architecture: tokio-based agent pool with `join_all` parallel dispatch for high-speed multi-target scanning
