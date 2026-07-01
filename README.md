@@ -4,6 +4,8 @@
 *HyperSecurity Offensive Labs ·*   
 Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
 
+<img width="1440" height="900" alt="Screenshot_2026-07-01_12_38_54" src="https://github.com/user-attachments/assets/fb7e854a-b362-443b-b447-8fce97dd0311" />
+
 [![GUI](https://img.shields.io/badge/_GUI-Launch_OXIDE-E83929?style=for-the-badge&logo=electron&logoColor=000&labelColor=FFE8E0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
 [![Forums](https://img.shields.io/badge/_Forums-Community-8BB85C?style=for-the-badge&logo=discourse&logoColor=000&labelColor=EDF5E0)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/_Rust-2021-F7D7D9?style=for-the-badge&logo=rust&logoColor=000&labelColor=FFF0F0)](https://www.rust-lang.org/)
@@ -104,6 +106,8 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI · WAF Bypass (12 vendors)
 ---
 
 [![GUI Frontend](https://img.shields.io/badge/_GUI_Frontend-Desktop_App-D7003A?style=for-the-badge&logo=electron&logoColor=000&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
+
+<img width="1440" height="900" alt="Screenshot_2026-07-01_12_38_59" src="https://github.com/user-attachments/assets/4f386be4-a663-4654-93ab-c32e29fc0864" />
 
 Native desktop GUI built with **WRY** (WebView2/WebKit) + **TAO** (windowing). Frameless window, scan presets, config panel, module toggles, live terminal console, status badge, About modal. Keyboard shortcuts: `Ctrl+Enter` start, `Escape` stop, `F12` DevTools.
 
