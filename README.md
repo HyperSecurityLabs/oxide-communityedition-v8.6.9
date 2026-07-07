@@ -147,6 +147,8 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Async/await concurrent architecture: tokio-based agent pool with `join_all` parallel dispatch for high-speed multi-target scanning
 - Chunk-based async fuzzing engine: concurrent payload injection across all modules with adaptive worker scaling
 - Zero-copy async TCP connect scanner with `tokio::net::TcpStream` for rapid port/probe scanning
+- 0 Allow Dead Code Elimilation
+- 0 Unsafe memory blocks thread safety
 
 ## WAF12 Evasion Suite
 - 12 evasion techniques across 4 major WAF profiles (CloudFlare, ModSecurity, AWS WAF, Imperva/Incapsula)
