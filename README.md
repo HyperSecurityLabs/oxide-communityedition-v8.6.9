@@ -57,7 +57,7 @@ sudo apt install -y build-essential pkg-config libssl-dev cmake
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source "$HOME/.cargo/env"
 git clone https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9.git
-cd OxideCE-v8.6.9COMMUNITY && cargo build --release
+cd oxide-communityedition-v8.6.9 && cargo build --release
 sudo cp target/release/oxide /usr/local/bin/
 ```
 ---
