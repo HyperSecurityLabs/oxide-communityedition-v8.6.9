@@ -272,5 +272,5 @@ OXIDE was put through a hardened battle test against a custom target with **5 de
 > OXIDE isn't just another scanner — it's the only one that combines SQLi + XSS + CMDi + NoSQLi + CORS + TLS + session + creds + ML zero-day in a single concurrent engine. Star it, share it, make it sharper.
 
 </div>
-
+> Soon Oxide 8.7 will release Now hypersecurity offensive labs are planing to Integrate Burpsuite And with Secreat features that Are considered to be confidential. 
 
